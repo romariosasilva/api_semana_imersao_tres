@@ -1,0 +1,25 @@
+{
+  "name": "api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": ""
+  },
+  "author": {
+    "name": "Romario Silva",
+    "email": "romario.se@hotmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/romariosasilva/api_semana_imersao_tres.git"
+  },
+  "license": "ISC",
+  "private": true,
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "mongodb": "^3.6.9",
+    "mongoose": "^5.12.13"
+  }
+}
